@@ -37,7 +37,10 @@ HOW YOU CAN RUN THIS :
    To start the app and serve the prediction model, run:
    
    python app.py
-   
+4. *Open the Web Interface*:
+   Open your web browser and go to http://127.0.0.1:5000/. You’ll see a form to input your data!
+
+---   
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests.
