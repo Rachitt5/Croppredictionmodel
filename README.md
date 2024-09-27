@@ -1,6 +1,3 @@
-Here's a simple README file for your Crop Prediction Tool project:
-
----
 
 # Crop Prediction Tool
 
@@ -24,39 +21,23 @@ The Crop Prediction Tool is a web application designed to assist farmers in sele
 - **Machine Learning:** Scikit-learn for model training
 - **Data Handling:** NumPy for numerical computations
 
-## Installation
+HOW YOU CAN RUN THIS :
 
-1. Clone this repository to your local machine.
-   ```bash
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory.
-   ```bash
-   cd crop-prediction-tool
-   ```
-3. Install the required packages.
-   ```bash
+1. *Clone the Repository*:
+   
+    git clone https://github.com/Rachitt5/croppredictionmodel.git
+
+2. *Install the Required Dependencies*:
+   Navigate to the project directory and install the required Python packages using:
+   
    pip install -r requirements.txt
-   ```
+   
 
-## Usage
-
-1. Start the Flask application.
-   ```bash
+3. *Run the Flask Application*:
+   To start the app and serve the prediction model, run:
+   
    python app.py
-   ```
-2. Open your web browser and go to `http://127.0.0.1:5000`.
-
-3. Input the required data and click on "Predict Crop" to get your prediction.
-
+   
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-You can replace `<repository-url>` with the actual URL of your GitHub repository. Let me know if you'd like any changes!
